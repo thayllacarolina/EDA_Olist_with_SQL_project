@@ -8,6 +8,6 @@ As informações sobre os produtos, os clientes, os comerciantes, os meios de pa
 ## 2. O produto final do projeto:
 Os dados foram disponibilizados neste repositório, bem como o arquivo SQL com as possíveis perguntas de negócios e suas respectivas respostas. Foi publicado no meu perfil do Medium um texto mais detalhado sobre o que foi feito e os insights que puderam ser extraídos com relação a exploração dos dados da Olist. Para ter mais detalhes sobre essa publicação acesse: https://medium.com/@Thaylla_carolina/explorando-os-dados-da-olist-com-sql-7cce83ba0e7a 
 
-## 7. Próximo passos
+## 3. Próximo passos
 1. Aproveitar as ideias de análise obtidas para pôr em prática em projetos futuros;
 2. Procurar por mais dados da empresa para combinar com os já coletados e assim desenvolver uma análise mais rica em informações.
